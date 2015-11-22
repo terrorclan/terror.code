@@ -1,0 +1,4 @@
+C:\aula\terror2\helloterror\helloterror\bin\Release\helloterror.exe
+C:\aula\terror2\helloterror\helloterror\bin\Release\helloterror.pdb
+C:\aula\terror2\helloterror\helloterror\obj\x86\Release\helloterror.exe
+C:\aula\terror2\helloterror\helloterror\obj\x86\Release\helloterror.pdb
